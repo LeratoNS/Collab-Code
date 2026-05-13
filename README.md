@@ -6,7 +6,6 @@ CollabCode is a web-based version control platform that allows users to create, 
 
 It includes project management, activity tracking, file sharing, user connections, and a check-in/check-out system.
 
-Developed for **IMY 220 – Advanced Markup Languages**.
 
 ---
 
